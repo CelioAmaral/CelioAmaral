@@ -1,5 +1,7 @@
-## <i> <font color="blue"> >>> print("Welcome(a)") </font> </i> 📚 
-
+## <i> <font color="blue"> >>> print("Welcome(a)") </font> </i> 📚
+<div align="center"> <br/>
+  <img align="center" alt="Celio-code" height="150" widith= "150" style="border-radius:50px" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding2.gif">
+</div>
 
 ## <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
 
