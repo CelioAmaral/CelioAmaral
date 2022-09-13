@@ -1,7 +1,7 @@
 ## >>> print("Welcome(a)") 📚 💻 🧑 🇧🇷 
 
 
-<img align="center" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
+## <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
 
 <div align="center">
   <a href="https://github.com/CelioAmaral">
@@ -20,7 +20,9 @@
   <img align="center" alt="Celio-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Celio-Sqlite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
   <img align="center" alt="Celio-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="Celio-SqlServer" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Celio-SqlServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Celio-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Celio-Ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 </div>
 
 ##
