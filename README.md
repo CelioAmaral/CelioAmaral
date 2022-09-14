@@ -1,5 +1,6 @@
 ## <i> <font color="blue"> >>> print("Welcome(a)") </font> </i> 📚
-<div align="center"> <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4000&pause=700&color=4EAAF7&center=true&vCenter=true&width=1000&height=20&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Celio+Amaral;Sou+estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
+<div align="center">
   <img align="center" alt="Celio-code" height="150" widith= "150" style="border-radius:50px;" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding2.gif">
 </div>
 
