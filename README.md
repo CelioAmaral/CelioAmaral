@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/CelioAmaral">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celioamaral&layout=compact&langs_count=7&theme=monokaivibrant"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelioAmaral&layout=compact&langs_count=7&theme=monokaivibrant"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Celio-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
