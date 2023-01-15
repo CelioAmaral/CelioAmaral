@@ -1,7 +1,7 @@
 ## <i> <font color="blue"> >>> print("Welcome(a)") </font> </i> 📚
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4000&pause=700&color=4EAAF7&center=true&vCenter=true&width=1000&height=20&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Celio+Amaral;Sou+estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
 <div align="center">
-  <img align="center" alt="Celio-code" height="150" widith= "150" style="border-radius: 50%;" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding2.gif">
+  <img align="center" alt="Celio-code" height="150" widith= "150" style="border-radius: 50%;" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif">
 </div>
 
 ## <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
