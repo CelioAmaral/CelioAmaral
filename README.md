@@ -1,5 +1,5 @@
 ## <i> <font color="blue"> >>> print("Welcome(a)") </font> </i> 📚
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4000&pause=700&color=4EAAF7&center=true&vCenter=true&width=1000&height=20&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Celio+Amaral;Sou+estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4000&pause=700&color=4EAAF7&center=true&vCenter=true&width=1000&height=20&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Celio+Amaral;Sou+graduado+em+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
 <div align="center">
   <img align="center" alt="Celio-code" height="150" widith= "150" style="border-radius: 50%;" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif">
 </div>
@@ -15,13 +15,14 @@
   <img align="center" alt="Celio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Celio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Celio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Celio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Celio-Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Celio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Celio-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Celio-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Celio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Celio-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Celio-Sqlite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
-  <img align="center" alt="Celio-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+  <img align="center" alt="Celio-Azure" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+  <img align="center" alt="Celio-Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Celio-SqlServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Celio-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Celio-Ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
