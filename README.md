@@ -6,10 +6,6 @@
 
 ## <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
 
-<div align="center">
-  <a href="https://github.com/CelioAmaral">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelioAmaral&layout=compact&langs_count=7&theme=monokaivibrant"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Celio-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Celio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
