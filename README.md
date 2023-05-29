@@ -30,7 +30,7 @@
     <img align="center" alt="Celio-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
 
-##
+## <img align="right" alt="Urameshi" height="50" width="60" src="https://user-images.githubusercontent.com/60412419/76780158-5016ad80-678b-11ea-9e24-789b96ac71ad.gif">
 
 <div> 
   <a href="https://www.facebook.com/CelioSilvaiD" target="_blank"><img align="center" alt="Celio-Face" height="30" width="90" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" target="_blank"></a> 
