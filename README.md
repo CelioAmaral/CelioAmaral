@@ -44,3 +44,10 @@
 <div align="center">
   <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dueling_lightsabers.svg/640px-Dueling_lightsabers.svg.png"/>
 </div>
+<h6 align="right"> 
+"Nós só podemos ver um pouco do futuro,<br>
+mas o suficiente para perceber que há<br>
+muito a fazer."<br>
+<br>
+Alan Mathison Turing
+</h6>
