@@ -38,7 +38,9 @@
   <a href = "mailto:celiosilvaibf@gmail.com"><img align="center" alt="Celio-Gmail" height="30" width="90" src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/celioamaral20" target="_blank"><img align="center" alt="Celio-Link" height="30" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- ![Snake animation](https://github.com/CelioAmaral/CelioAmaral/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CelioAmaral/CelioAmaral/output/github-contribution-grid-snake.svg">
+</picture>
  
 </div>
 <div align="center">
