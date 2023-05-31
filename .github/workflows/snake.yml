@@ -11,6 +11,11 @@ on:
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
+  
+# run on every push on the master branch
+  push:
+    branches:
+    - master
 
 # The sequence of runs in this workflow:
 jobs:
@@ -34,17 +39,7 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
           
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
-
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
+    # push the content of <build_dir> to a branch
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           # the output branch we mentioned above
