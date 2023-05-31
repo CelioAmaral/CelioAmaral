@@ -31,7 +31,8 @@ jobs:
       - uses: actions/checkout@v3
 
     # Generates the snake  
-      - uses: Platane/snk/svg-only@v2
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
         id: snake-gif
         with:
           github_user_name: CelioAmaral
@@ -40,7 +41,8 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           
     # push the content of <build_dir> to a branch
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           # the output branch we mentioned above
           target_branch: output
