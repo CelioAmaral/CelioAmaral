@@ -4,8 +4,8 @@
   <img align="center" alt="Celio-code" height="150" widith= "150" style="border-radius: 50%;" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif">
 </div>
 
-## <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
-
+## <img align="left" alt="Urameshi" height="50" width="60" src="https://user-images.githubusercontent.com/60412419/76780158-5016ad80-678b-11ea-9e24-789b96ac71ad.gif"> <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
+##
 <div>
   <a href="https://github.com/CelioAmaral">
   <img height="150em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=CelioAmaral&layout=compact&langs_count=8&theme=monokaivibrant"/></a>
@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-## <img align="right" alt="Urameshi" height="50" width="60" src="https://user-images.githubusercontent.com/60412419/76780158-5016ad80-678b-11ea-9e24-789b96ac71ad.gif">
+## <img align="left" alt="Wayne" height="60" width="60" src="https://avatars.githubusercontent.com/u/3408641?v=4"> <img align="right" alt="Bruce" height="60" width="70" src="https://camo.githubusercontent.com/51e324d6ac751d95629f4d7ac2e182ec143c420e46d043b7f6bfbec450c6ebc6/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f2d7a306c5870754b4f5158512f55465a452d506a674950492f414141414141414144724d2f48727a54627a6e535946492f73313630302f66616d6f75732d636172746f6f6e2d6368617261637465722d6261746d616e2e6a7067">
 ##
 - ### <i> [Contact:](https://www.linkedin.com/in/celioamaral20) </i>
 <div align="center">
