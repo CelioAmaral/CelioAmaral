@@ -1,4 +1,5 @@
-### <i> <font color="blue"> [>>> print('Welcome(a)')](https://www.udemy.com/pt/) </font> </i> 📚
+### <i> <font color="blue"> [>>> print('Welcome(a)')](https://www.udemy.com/pt/) </font> </i> 📚 <img align="center" alt="Celio-GitHub" height="30" width="30" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif"> <img align="center" alt="Celio-shield" height="30" width="30" src="https://user-images.githubusercontent.com/66346161/123515458-16826100-d6b5-11eb-8d41-f02bf6281c0c.png">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=4EAAF7&center=true&vCenter=true&width=1000&height=20&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Celio+Amaral;Sou+graduado+em+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
 <div align="center">
   <img align="center" alt="Celio-code" height="150" widith= "150" style="border-radius: 50%;" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif">
@@ -62,6 +63,7 @@
 
 <table align="center">
   <tr>
+    <td><img align="center" alt="Celio-Sonic" height="40" width="40" src="https://camo.githubusercontent.com/8560f512fee137ae2b22da61a48bfdbef617f3dc4eaa33dfce17fcfcc9df7ee6/68747470733a2f2f6e6f746261642e736f6674776172652f696d672f736f6e69635f6c6f676f2e676966"></td>
     <td><img align="center" alt="Celio-AndroidStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></td>
     <td><img align="center" alt="Celio-MarioKart" height="40" width="40" src="https://camo.githubusercontent.com/cb8de9fff29c2c2818367ab2c6a71db736aa519da843343aad2884647fc79d64/68747470733a2f2f692e696d6775722e636f6d2f3534674f3072772e676966"></td>
   </tr>
