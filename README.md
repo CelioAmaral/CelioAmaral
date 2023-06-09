@@ -8,7 +8,7 @@
 ##
 <div>
   <img height="150em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=CelioAmaral&hide=prs&show_icons=true&theme=monokaivibrant&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=CelioAmaral&layout=compact&langs_count=8&theme=monokaivibrant"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelioAmaral&hide_progress=true&langs_count=8&theme=monokaivibrant"/>
 </div>
 <table align="center"><br>
   <tr>
