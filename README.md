@@ -8,9 +8,8 @@
 
 <div>
   <a href="https://github.com/CelioAmaral">
-  <img height="170em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=CelioAmaral&layout=compact&langs_count=8&theme=monokaivibrant"/></a>
-  <a href="https://github.com/CelioAmaral">
-  <img height="170em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=CelioAmaral&hide=prs,&count_private=true&theme=monokaivibrant"/></a>
+  <img height="150em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=CelioAmaral&layout=compact&langs_count=8&theme=monokaivibrant"/></a>
+  <img height="150em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=CelioAmaral&hide=prs,&count_private=true&theme=monokaivibrant"/></a>
 </div>
 <table align="center"><br>
   <tr>
