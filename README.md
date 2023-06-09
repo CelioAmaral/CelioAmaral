@@ -6,9 +6,11 @@
 
 ## <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
 
-<div align="center">
+<div>
   <a href="https://github.com/CelioAmaral">
-  <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=CelioAmaral&layout=compact&langs_count=8&theme=monokaivibrant"/></a>
+  <img height="170em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=CelioAmaral&layout=compact&langs_count=8&theme=monokaivibrant"/></a>
+  <a href="https://github.com/CelioAmaral">
+  <img height="170em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=CelioAmaral&hide=prs,&count_private=true&theme=monokaivibrant"/></a>
 </div>
 <table align="center"><br>
   <tr>
