@@ -63,6 +63,7 @@
 <table align="center">
   <tr>
     <td><img align="center" alt="Celio-AndroidStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></td>
+    <td><img align="center" alt="Celio-MarioKart" height="40" width="40" src="https://camo.githubusercontent.com/cb8de9fff29c2c2818367ab2c6a71db736aa519da843343aad2884647fc79d64/68747470733a2f2f692e696d6775722e636f6d2f3534674f3072772e676966"></td>
   </tr>
 </table>
 
