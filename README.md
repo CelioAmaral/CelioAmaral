@@ -7,10 +7,12 @@
 
 ## <img align="left" alt="Urameshi" height="50" width="60" src="https://user-images.githubusercontent.com/60412419/76780158-5016ad80-678b-11ea-9e24-789b96ac71ad.gif"> <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
 ##
+
 <div>
-  <img height="150em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=CelioAmaral&hide=prs&show_icons=true&theme=monokaivibrant&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelioAmaral&hide_progress=true&langs_count=8&theme=monokaivibrant"/>
+  <img height="160em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=CelioAmaral&hide=prs&show_icons=true&theme=monokaivibrant&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelioAmaral&hide_progress=true&langs_count=8&theme=monokaivibrant"/>
 </div>
+
 <table align="center"><br>
   <tr>
     <td><img align="center" alt="Celio-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></td>
