@@ -5,6 +5,13 @@
   <img align="center" alt="Celio-code" height="150" widith= "150" style="border-radius: 50%;" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif">
 </div>
 
+----
+
+### 🎧 [Currently listening](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim) 🎧
+
+[![Spotify](https://novatorem-d2rd30trx-celioamaral.vercel.app/api/spotify)](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim)
+
+----
 ## <img align="left" alt="Urameshi" height="50" width="60" src="https://user-images.githubusercontent.com/60412419/76780158-5016ad80-678b-11ea-9e24-789b96ac71ad.gif"> <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
 ##
 
