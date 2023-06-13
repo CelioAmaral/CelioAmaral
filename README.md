@@ -7,7 +7,7 @@
 
 ----
 
-### 🎧 [Currently listening](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim) 🎧
+### 🎧 [Currently listening](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim) 🎧<img alt="Celio-Spotify" height="10" width="35" src="https://raw.githubusercontent.com/kirilkirkov/Spotify-WebApi-PHP-SDK/master/.github/logo%402x.png">
 
 [![Spotify](https://novatorem-git-main-celioamaral.vercel.app/api/spotify)](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim)
 
@@ -17,7 +17,7 @@
 
 <div>
   <img height="160em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=CelioAmaral&hide=&show_icons=true&theme=monokaivibrant&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CelioAmaral&hide_progress=true&langs_count=8&theme=monokaivibrant"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelioAmaral&hide_progress=true&langs_count=8&theme=monokaivibrant"/>
 </div>
 
 <table align="center"><br>
