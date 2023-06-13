@@ -35,7 +35,7 @@
     <td><img align="center" alt="Celio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
     <td><img align="center" alt="Celio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
     <td><img align="center" alt="Celio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></td>
-    <td><img align="center" alt="Celio-React-Native" height="30" width="30" src="https://ih1.redbubble.net/image.1461225025.4684/ur,pin_large_front,square,600x600.jpg"></td>
+    <td><img align="center" alt="Celio-NextJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"></td>
     <td><img align="center" alt="Celio-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></td>
   </tr>
 </table>
