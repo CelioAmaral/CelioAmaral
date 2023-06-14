@@ -10,6 +10,10 @@
 ### 🎧 [Currently listening](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim) 🎧<img alt="Celio-Spotify" height="10" width="35" src="https://raw.githubusercontent.com/kirilkirkov/Spotify-WebApi-PHP-SDK/master/.github/logo%402x.png">
 
 [![Spotify](https://novatorem-git-main-celioamaral.vercel.app/api/spotify)](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim)
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31jjp6p5x7jvk74kttubrbj66oim&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
 
 ----
 ## <img align="left" alt="Urameshi" height="50" width="60" src="https://user-images.githubusercontent.com/60412419/76780158-5016ad80-678b-11ea-9e24-789b96ac71ad.gif"> <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
