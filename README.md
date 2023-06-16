@@ -11,7 +11,7 @@
 
 [![Spotify](https://novatorem-git-main-celioamaral.vercel.app/api/spotify)](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim)
 <details>
-  <summary><b><i>Recently played</summary>
+  <summary><b><i>Recently played :eyes:</summary>
   <a href="https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31jjp6p5x7jvk74kttubrbj66oim&unique=true&count=10" alt="Spotify recently played"></a>
 </details>
 
@@ -20,7 +20,7 @@
 ##
 
 <details>
-  <summary><b><i>GitHub Stats</summary>
+  <summary><b><i>GitHub Stats :eyes:</summary>
   <img height="160em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=CelioAmaral&hide=&show_icons=true&theme=monokaivibrant&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CelioAmaral&hide_progress=true&langs_count=8&theme=monokaivibrant"/>
 </details>
