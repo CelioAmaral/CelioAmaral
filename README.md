@@ -16,7 +16,7 @@
 </details>
 
 ----
-## <img align="left" alt="Urameshi" height="50" width="60" src="https://user-images.githubusercontent.com/60412419/76780158-5016ad80-678b-11ea-9e24-789b96ac71ad.gif"> <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
+## <img align="left" alt="Urameshi" height="50" width="60" src="https://i.pinimg.com/originals/d0/da/a8/d0daa84e0ae3b9e80f93f7c344da0134.png"> <img align="right" alt="Devops" height="50" width="60" src="https://user-images.githubusercontent.com/85323953/189705648-ba4e073c-caa9-43ae-a31c-107f29228f3a.png">
 ##
 
 <details>
@@ -79,11 +79,11 @@
   <tr>
     <td><img align="center" alt="Celio-Sonic" height="40" width="40" src="https://camo.githubusercontent.com/8560f512fee137ae2b22da61a48bfdbef617f3dc4eaa33dfce17fcfcc9df7ee6/68747470733a2f2f6e6f746261642e736f6674776172652f696d672f736f6e69635f6c6f676f2e676966"></td>
     <td><img align="center" alt="Celio-AndroidStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></td>
-    <td><img align="center" alt="Celio-MarioKart" height="40" width="40" src="https://camo.githubusercontent.com/cb8de9fff29c2c2818367ab2c6a71db736aa519da843343aad2884647fc79d64/68747470733a2f2f692e696d6775722e636f6d2f3534674f3072772e676966"></td>
+    <td><img align="center" alt="Celio-DjangoNinja" height="40" width="40" src="https://camo.githubusercontent.com/d9ab5077aaa9a95b16eff5a0054a300ab08f50c2236c8cb59c75795bd54c12c5/68747470733a2f2f646a616e676f2d6e696e6a612e726573742d6672616d65776f726b2e636f6d2f696d672f6c6f676f2d6269672e706e67"></td>
   </tr>
 </table>
 
-## <img align="left" alt="Wayne" height="60" width="60" src="https://avatars.githubusercontent.com/u/3408641?v=4"> <img align="right" alt="Bruce" height="60" width="70" src="https://camo.githubusercontent.com/51e324d6ac751d95629f4d7ac2e182ec143c420e46d043b7f6bfbec450c6ebc6/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f2d7a306c5870754b4f5158512f55465a452d506a674950492f414141414141414144724d2f48727a54627a6e535946492f73313630302f66616d6f75732d636172746f6f6e2d6368617261637465722d6261746d616e2e6a7067">
+## <img align="left" alt="Wayne" height="60" width="60" src="https://avatars.githubusercontent.com/u/3408641?v=4"> <img align="right" alt="Bruce" height="60" width="70" src="https://www.pngmart.com/files/2/Batman-PNG-Photos.png">
 ##
 - ### <img align="center" alt="Celio-NinjaPy" height="35" width="35" src="https://camo.githubusercontent.com/28a89d3c85971c80dc86fbd3e0aa8bd80c8919f98127ddb4270b485c850c586a/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363035343935312f323132303836302f64363035376332382d393163372d313165332d393337662d3565363463653065393638652e706e67"> <i> [Contact:](https://www.linkedin.com/in/celioamaral20) </i>
 <div align="center">
