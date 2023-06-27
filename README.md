@@ -92,7 +92,7 @@
   <a href="https://www.linkedin.com/in/celioamaral20" target="_blank"><img align="center" alt="Celio-Link" height="30" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 <div align="center">
-  <a href="https://discord.com/channels/Celio_Amaral#6779" target="_blank"><img align="center" alt="Celio-Discord" height="30" width="90" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/celio_amaral" target="_blank"><img align="center" alt="Celio-Discord" height="30" width="90" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
   <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dueling_lightsabers.svg/640px-Dueling_lightsabers.svg.png"/>
