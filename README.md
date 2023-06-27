@@ -11,7 +11,7 @@
 
 [![Spotify](https://novatorem-git-main-celioamaral.vercel.app/api/spotify)](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim)
 <details>
-  <summary><b><i>Recently played :eyes:</summary>
+  <summary><b><i>Recently Played :eyes:</summary>
   <a href="https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31jjp6p5x7jvk74kttubrbj66oim&unique=true&count=10" alt="Spotify recently played"></a>
 </details>
 
