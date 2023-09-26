@@ -25,6 +25,27 @@
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CelioAmaral&hide_progress=true&langs_count=8&theme=monokaivibrant"/>
 </details>
 
+### [Certificação](https://www.linkedin.com/in/celioamaral20)
+
+<p>
+   <img src="https://img.shields.io/badge/Certificações&nbsp;Cloud-Amazon&nbsp;AWS-informational?style=flat&logo=Amazon&color=05122A" />
+</p>
+
+<a align="center" href="https://www.credly.com/badges/681bdffc-9e9e-4431-8ab3-c538e714780f/linked_in_profile?trk=public_profile_see-credential" arget="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="15%">
+</a>
+
+<p>
+   <img src="https://img.shields.io/badge/Certificações&nbsp;Cloud-Microsoft&nbsp;Azure-informational?style=flat&logo=Microsoft&color=05122A" />
+</p>
+
+<a align="center" href="https://learn.microsoft.com/pt-br/users/clioamaral-9907/credentials/203c4d34b57904c" arget="_blank">
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="15%">
+</a>
+<a align="center" href="https://learn.microsoft.com/pt-br/users/clioamaral-9907/credentials/70db33e3171a60" arget="_blank">
+  <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="15%">
+</a>
+
 <table align="center"><br>
   <tr>
     <td><img align="center" alt="Celio-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></td>
