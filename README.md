@@ -98,9 +98,9 @@
 
 <table align="center">
   <tr>
-    <td><img align="center" alt="Celio-Sonic" height="40" width="40" src="https://camo.githubusercontent.com/8560f512fee137ae2b22da61a48bfdbef617f3dc4eaa33dfce17fcfcc9df7ee6/68747470733a2f2f6e6f746261642e736f6674776172652f696d672f736f6e69635f6c6f676f2e676966"></td>
+    <td><img align="center" alt="Celio-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></td>
     <td><img align="center" alt="Celio-AndroidStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></td>
-    <td><img align="center" alt="Celio-DjangoNinja" height="40" width="40" src="https://camo.githubusercontent.com/d9ab5077aaa9a95b16eff5a0054a300ab08f50c2236c8cb59c75795bd54c12c5/68747470733a2f2f646a616e676f2d6e696e6a612e726573742d6672616d65776f726b2e636f6d2f696d672f6c6f676f2d6269672e706e67"></td>
+    <td><img align="center" alt="Celio-Salesforce" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"></td>
   </tr>
 </table>
 
