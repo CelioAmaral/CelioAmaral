@@ -106,7 +106,7 @@
 
 ## <img align="left" alt="Wayne" height="60" width="60" src="https://avatars.githubusercontent.com/u/3408641?v=4"> <img align="right" alt="Bruce" height="60" width="70" src="https://www.pngmart.com/files/2/Batman-PNG-Photos.png">
 ##
-- ### <img align="center" alt="Celio-NinjaPy" height="35" width="35" src="https://camo.githubusercontent.com/28a89d3c85971c80dc86fbd3e0aa8bd80c8919f98127ddb4270b485c850c586a/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363035343935312f323132303836302f64363035376332382d393163372d313165332d393337662d3565363463653065393638652e706e67"> <i> [Contact:](https://www.linkedin.com/in/celioamaral20) </i>
+- ### <img align="center" alt="Celio-NinjaPy" height="35" width="35" src="https://logosmarcas.net/wp-content/uploads/2020/12/Batman-Logo.png"> <i> [Contact:](https://www.linkedin.com/in/celioamaral20) </i>
 <div align="center">
   <a href="https://www.facebook.com/CelioSilvaiD" target="_blank"><img align="center" alt="Celio-Face" height="30" width="90" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:celiosilvaibf@gmail.com"><img align="center" alt="Celio-Gmail" height="30" width="90" src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
