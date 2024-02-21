@@ -68,7 +68,7 @@
 
 <table align="center">
   <tr>
-    <td><img align="center" alt="Celio-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></td>
+    <td><img align="center" alt="Celio-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"></td>
     <td><img align="center" alt="Celio-Vite" height="30" width="40" src="https://www.svgrepo.com/show/374167/vite.svg"></td>
     <td><img align="center" alt="Celio-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></td>
     <td><img align="center" alt="Celio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
