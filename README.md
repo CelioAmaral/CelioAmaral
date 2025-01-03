@@ -126,3 +126,4 @@ muito a fazer."<br>
 <br>
 Alan Mathison Turing
 </h6>
+<div>ℂ𝕣𝕚𝕤𝕥 ✞.♡</div>
