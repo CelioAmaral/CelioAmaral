@@ -126,4 +126,5 @@ muito a fazer."<br>
 <br>
 Alan Mathison Turing
 </h6>
+<h6 align="center"> 2Co 4.18 ♡ </h6>
 <div>ℂ𝕣𝕚𝕤𝕥 ✞.♡ Soli Deo Glória</div>
