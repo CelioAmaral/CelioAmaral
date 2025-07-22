@@ -109,7 +109,7 @@
 - ### <img align="center" alt="logo" height="35" width="35" src="https://logosmarcas.net/wp-content/uploads/2020/12/Batman-Logo.png"> <i> [Contact:](https://www.linkedin.com/in/celioamaral20) </i>
 <div align="center">
   <a href="https://www.facebook.com/CelioSilvaiD" target="_blank"><img align="center" alt="Celio-Face" height="30" width="130" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:celiosilvaibf@gmail.com"><img align="center" alt="Celio-Gmail" height="30" width="90" src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:celiosilvaibf@gmail.com"><img align="center" alt="Celio-Gmail" height="30" width="90" src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a><br><br>
   <a href="https://www.linkedin.com/in/celioamaral20" target="_blank"><img align="center" alt="Celio-Link" height="30" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 <div align="center">
