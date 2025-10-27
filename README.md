@@ -7,7 +7,7 @@
 
 ----
 
-### 🎧 [Currently listening](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim) 🎧<img alt="Celio-Spotify" height="10" width="35" src="https://raw.githubusercontent.com/kirilkirkov/Spotify-WebApi-PHP-SDK/master/.github/logo%402x.png">
+### 🎧 [Currently listening](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim) 🎧<img alt="Celio-Spotify" height="30" width="35" src="https://static.vecteezy.com/system/resources/thumbnails/027/224/002/small/spotify-3d-logo-free-png.png">
 
 [![Spotify](https://novatorem-git-main-celioamaral.vercel.app/api/spotify)](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim)
 <details>
