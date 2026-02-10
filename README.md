@@ -1,6 +1,6 @@
 ### <i> <font color="blue"> [>>> print('Welcome(a)')](https://www.udemy.com/pt/) </font> </i> 📚 <img align="center" alt="Celio-M" height="50" width="50" src="https://user-images.githubusercontent.com/210965/90380868-888d2100-e074-11ea-8f1f-2920212eb45c.gif"> <img align="center" alt="Celio-shield" height="30" width="30" src="https://user-images.githubusercontent.com/66346161/123515458-16826100-d6b5-11eb-8d41-f02bf6281c0c.png"><img align="center" alt="Celio-Brasil" height="31" width="31" src="https://repository-images.githubusercontent.com/278511967/48ed4100-c24d-11ea-9e60-86bc02eb48a0">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=4000&pause=1000&color=4EAAF7&center=true&vCenter=true&width=1000&height=20&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Celio+Amaral;Sou+graduado+em+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=80&size=20&pause=650&color=4EAAF7&center=true&vCenter=true&width=1000&height=20&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Célio+Amaral;Sou+graduado+em+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
 <div align="center">
   <img align="center" alt="Celio-code" height="150" widith= "150" style="border-radius: 50%;" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif">
 </div>
