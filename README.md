@@ -22,7 +22,6 @@
 <details>
   <summary><b><i>GitHub Stats</summary>
   <img height="160em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=CelioAmaral&hide=&show_icons=true&theme=monokaivibrant&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelioAmaral&hide_progress=true&langs_count=10"/>
 </details>
 
 ### [Certificação](https://www.linkedin.com/in/celioamaral20)
