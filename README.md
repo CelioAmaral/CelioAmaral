@@ -1,4 +1,4 @@
-### <i> <font color="blue"> [>>> print('Welcome(a)')](https://www.udemy.com/pt/) </font> </i> 📚 <img align="center" alt="Celio-M" height="50" width="50" src="https://user-images.githubusercontent.com/210965/90380868-888d2100-e074-11ea-8f1f-2920212eb45c.gif"> <img align="center" alt="Celio-shield" height="30" width="30" src="https://user-images.githubusercontent.com/66346161/123515458-16826100-d6b5-11eb-8d41-f02bf6281c0c.png"><img align="center" alt="Celio-Brasil" height="31" width="31" src="https://repository-images.githubusercontent.com/278511967/48ed4100-c24d-11ea-9e60-86bc02eb48a0">
+### <i> <font color="blue"> [>>> print('Welcome(a)')](https://www.udemy.com/pt/) </font> </i> 📚 <img align="center" alt="Celio-M" height="50" width="50" src="https://user-images.githubusercontent.com/210965/90380868-888d2100-e074-11ea-8f1f-2920212eb45c.gif"><img align="right" alt="Celio-shield" height="30" width="30" src="https://user-images.githubusercontent.com/66346161/123515458-16826100-d6b5-11eb-8d41-f02bf6281c0c.png"><img align="right" alt="Celio-Brasil" height="31" width="31" src="https://repository-images.githubusercontent.com/278511967/48ed4100-c24d-11ea-9e60-86bc02eb48a0">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=80&size=20&pause=650&color=4EAAF7&center=true&vCenter=true&width=1000&height=20&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Célio+Amaral;Sou+graduado+em+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
 <div align="center">
@@ -7,7 +7,7 @@
 
 ----
 
-### 🎧 [Currently listening](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim) 🎧<img alt="Celio-Spotify" height="30" width="35" src="https://static.vecteezy.com/system/resources/thumbnails/027/224/002/small/spotify-3d-logo-free-png.png">
+### 🎧 [Currently listening](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim) 🎧 <img align="right" alt="Celio-Spotify" height="30" width="35" src="https://static.vecteezy.com/system/resources/thumbnails/027/224/002/small/spotify-3d-logo-free-png.png">
 
 [![Spotify](https://novatorem-git-main-celioamaral.vercel.app/api/spotify)](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim)
 <details>
@@ -106,15 +106,17 @@
 ## <img align="left" alt="Wayne" height="60" width="60" src="https://avatars.githubusercontent.com/u/3408641?v=4"> <img align="right" alt="Bruce" height="60" width="70" src="https://www.pngmart.com/files/2/Batman-PNG-Photos.png">
 ##
 - ### <img align="center" alt="logo" height="35" width="35" src="https://logosmarcas.net/wp-content/uploads/2020/12/Batman-Logo.png"> <i> [Contact:](https://www.linkedin.com/in/celioamaral20) </i>
-<div align="center">
-  <a href="https://www.facebook.com/CelioSilvaiD" target="_blank"><img align="center" alt="Celio-Face" height="30" width="130" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:celiosilvaibf@gmail.com"><img align="center" alt="Celio-Gmail" height="30" width="90" src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a><br><br>
+
+  <a href="https://www.facebook.com/CelioSilvaiD" target="_blank"><img alt="Celio-Face" height="30" width="130" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" target="_blank"></a> 
+  
+  <a href = "mailto:celiosilvaibf@gmail.com"><img align="center" alt="Celio-Gmail" height="30" width="90" src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.linkedin.com/in/celioamaral20" target="_blank"><img align="center" alt="Celio-Link" height="30" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br>
-<div align="center">
+
   <a href="https://discord.com/channels/celio_amaral" target="_blank"><img align="center" alt="Celio-Discord" height="30" width="130" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" target="_blank"></a>
+  
   <a href="https://cursos.alura.com.br/user/celioamaral" target="_blank"><img align="center" alt="Celio-Alura" height="30" width="40" src="https://avatars.githubusercontent.com/u/72874371?s=200&v=4" target="_blank"></a>
-</div>
+  
 <div align="center">
   <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dueling_lightsabers.svg/640px-Dueling_lightsabers.svg.png"/>
 </div>
