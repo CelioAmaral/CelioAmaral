@@ -118,7 +118,7 @@
   <a href="https://cursos.alura.com.br/user/celioamaral" target="_blank"><img align="center" alt="Celio-Alura" height="30" width="40" src="https://avatars.githubusercontent.com/u/72874371?s=200&v=4" target="_blank"></a>
   
 <div align="center">
-  <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dueling_lightsabers.svg/640px-Dueling_lightsabers.svg.png"/>
+  <img height="100em" src="https://png.pngtree.com/png-vector/20240128/ourmid/pngtree-cyber-security-3d-laptop-and-cloud-data-under-protection-cybersecurity-antivirus-png-image_11509265.png"/>
 </div>
 <h6 align="right"> 
 "Nós só podemos ver um pouco do futuro,<br>
