@@ -9,7 +9,7 @@
 
 ### 🎧 [Currently listening](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim) 🎧 <img align="right" alt="Celio-Spotify" height="30" width="35" src="https://static.vecteezy.com/system/resources/thumbnails/027/224/002/small/spotify-3d-logo-free-png.png">
 
-[![Spotify](https://novatorem-git-main-celioamaral.vercel.app/api/spotify)](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim)
+[![Spotify](https://novatorem-peach-rho.vercel.app/api/orchestrator)](https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim)
 <details>
   <summary><b><i>Recently Played</summary>
   <a href="https://open.spotify.com/user/31jjp6p5x7jvk74kttubrbj66oim"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31jjp6p5x7jvk74kttubrbj66oim&unique=true&count=10" alt="Spotify recently played"></a>
